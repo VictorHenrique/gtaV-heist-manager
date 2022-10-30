@@ -1,10 +1,9 @@
-The Fleeca Job
-The Prison Break
-The Humane Labs Raid
-Series A Funding
-The Pacific Standard
-The Data Breaches
-The Bogdan Problem
-The Doomsday Heist
-The Diamond Casino Heist
-The Cayo Perico Heist
+/wiki/Fleeca_Job
+/wiki/Prison_Break
+/wiki/Humane_Raid
+/wiki/Series_A
+/wiki/Pacific_Standard
+/wiki/The_Fleeca_Job
+/wiki/The_Doomsday_Heist
+/wiki/The_Diamond_Casino_Heist
+/wiki/The_Cayo_Perico_Heist
